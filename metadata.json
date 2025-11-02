@@ -1,0 +1,5 @@
+{
+  "name": "Employee Leave Request App",
+  "description": "A mobile-friendly web application for employees to submit leave requests. The submitted data is stored in a Google Sheet.",
+  "requestFramePermissions": []
+}
